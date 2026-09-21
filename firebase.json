@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "luckydraw",
+    "public": ".",
     "ignore": [
       "firebase.json",
       "**/.*",
